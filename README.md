@@ -1,3 +1,5 @@
 # Currency-Convertor
 
-![]("./assets/demo.gif")
+Try it out: https://expo.io/@tranghoang200/currencyConvertor
+
+![](assets/demo.gif)

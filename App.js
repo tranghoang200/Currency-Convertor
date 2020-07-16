@@ -107,7 +107,7 @@ export default function App() {
           {currencyFrom.flag} - {currencyTo.flag}
         </Text>
         <Text style={styles.textRate}>
-          current rate: {rate != null ? rate.toFixed(2) : ""}
+          Current rate: {rate != null ? rate.toFixed(2) : ""}
         </Text>
       </View>
     </SafeAreaView>
